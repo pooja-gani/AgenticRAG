@@ -4,6 +4,12 @@ You can add URLs as knowledge sources, ask questions, and watch the agent think 
 
 ---
 
+<p align="center">
+  <img src="https://github.com/pooja-gani/AgenticRAG/blob/main/rag%20agent.png?raw=true" width="600">
+</p>
+
+---
+
 ## 🚀 Features
 - Add any URL to your knowledge base  
 - Default article preloaded (MCP vs A2A Protocol)  
